@@ -1,0 +1,33 @@
+﻿exchange_id,symbol,goog_symbol,name,country,city,currency,time_zone,시가총액
+52,NYSE,NYSE,New York Stock Exchange,United States,New York City,USD,EST,1
+45,NASDAQ,NASDAQ,NASDAQ Stock Exchange,United States,New York City,USD,EST,2
+46,NASDAQCM,NASDAQ,Nasdaq Capital Market,United States,New York City,USD,EST,2
+47,NASDAQGM,NASDAQ,Nasdaq Global Market,United States,New York City,USD,EST,2
+48,NASDAQGS,NASDAQ,Nasdaq Global Select,United States,New York City,USD,EST,2
+75,SSE,SHA,Shanghai Stock Exchange,China,Shanghai,CNY,CST,3
+66,PSI,ELI,NYSE Euronext Lisbon,Portugal,Lisbon,EUR,CET,4
+1,AEX,AMS,NYSE Euronext Amsterdam,Netherlands,Amsterdam,EUR,CET,4
+64,PAR,EPA,NYSE Euronext Paris,France,Paris,EUR,CET,4
+8,BEL,EBR,NYSE Euronext Brussels,Belgium,Brussels,EUR,CET,4
+82,TSE,TYO,Tokyo Stock Exchange,Japan,Tokyo,JPY,JST,5
+77,SZSE,SHE,Shenzhen Stock Exchange,China,Shenzhen,CNY,CST,6
+28,HKEX,HKG,Hong Kong Stock Exchange,Hong Kong,Hong Kong,HKD,HKT,7
+49,NSE,NSE,National Stock Exchange of India,India,Mumbai,INR,IST,8
+36,LSE,LON,London Stock Exchange,United Kingdom,London,GBP,GMT,9
+83,TSX,TSE,Toronto Stock Exchange,Canada,Toronto,CAD,EST,10
+84,TSXV,CVE,TSX Venture Exchange,Canada,Toronto,CAD,EST,10
+78,TADAWUL,TADAWUL,Saudi Stock Exchange,Saudi Arabia,Riyadh,SAR,,11
+23,FRA,FRA,Deutsche B?se Frankfurt Stock Exchange,Germany,Frankfurt,EUR,CET,12
+90,XETRA,ETR,Deutsche Borse XETRA,Germany,Frankfurt,EUR,CET,12
+74,SIX,SWX,SIX Swiss Exchange,Switzerland,Zurich,CHF,CET,13
+87,VTX,VTX,SIX Swiss Exchange,Switzerland,Zurich,CHF,CET,13
+86,VSE,VSE,NASDAQ OMX Vilnius,Lithuania,Vilnius,LTL,EET,14
+29,ICEX,ICE,NASDAQ OMX Iceland,Iceland,Rejkjavik,ISK,,14
+80,TAL,TAL,NASDAQ OMX Tallinn,Estonia,Tallinn,EUR,EET,14
+19,CSE,CPH,NASDAQ OMX Copenhagen,Denmark,Copenhagen,DKK,CET,14
+34,KSC,KRX,Korea Stock Exchange,South Korea,Seoul,KRW,KST,15
+35,KSCQ,KOSDAQ,KOSDAQ,South Korea,Seoul,KRW,KST,15
+79,TAIEX,TPE,Taiwan Stock Exchange,Taiwan,Taipei,TWD,CST,16
+85,TWO,,Taiwan OTC Exchange,Taiwan,Taipei,TWD,,16
+5,ASX,ASX,Australian Stock Exchange,Australia,Sydney,AUD,AEST,17
+33,JSE,JSE,Johannesburg Stock Exchange,South Africa,Johannesburg,ZAR,SAST,18
