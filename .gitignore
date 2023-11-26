@@ -1,3 +1,5 @@
 _*
 *.parquet
+high*
+download*
 .*
