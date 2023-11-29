@@ -7,3 +7,11 @@ WORK_SPACE
 
 PriceTrend/WORK_SPACE/data
 Youtube/_transcribe/*.txt
+*.pq
+*.pyc
+.vscode
+.idea
+.DS_Store
+Youtube/_transcribe/*.txt
+
+PriceTrend/WORK_SPACE/data
