@@ -4,6 +4,7 @@ WORK_SPACE
 .*
 
 *.pq
+PriceTrend/CACHE_DIR/PORTFOLIO/*.pq
 
 PriceTrend/WORK_SPACE/data
 Youtube/_transcribe/*.txt
