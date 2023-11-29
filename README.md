@@ -31,7 +31,7 @@
   <p align="center">
     최신 데이터 과학 기술을 활용한 혁신적인 투자 전략 개발 프로젝트
     <br />
-    <a href="https://choiinyeol.github.io/posts/S&PQuantitativeInvestmentModelDevelopmentCompetitionReport)"><strong>문서 탐색하기 »</strong></a>
+    <a href="https://choiinyeol.github.io/posts/S&PQuantitativeInvestmentModelDevelopmentCompetitionReport"><strong>문서 탐색하기 »</strong></a>
     <br />
     <br />
     <a href="https://github.com/FELAB-KHU/SNPQuant">데모 보기</a>
