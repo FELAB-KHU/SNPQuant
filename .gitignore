@@ -1,6 +1,9 @@
-_*
 *.parquet
-high*
-download*
+WORK_SPACE
+
 .*
+
+*.pq
+
 PriceTrend/WORK_SPACE/data
+Youtube/_transcribe/*.txt

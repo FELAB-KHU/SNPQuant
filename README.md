@@ -23,7 +23,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/FELAB-KHU/SNPQuant">
-    <img src="images/Felab_logo 2.png" alt="Logo" width="520" height="100">
+    <img src="_img/Felab_logo 2.png" alt="Logo" width="520" height="100">
   </a>
 
   <h3 align="center">퀀트 투자 모델의 멀티모달리티 적용</h3>
@@ -250,7 +250,7 @@ Project Link: [FELAB/SNPQuant](https://github.com/FELAB-KHU/SNPQuant)
 
 
 
-<!-- MARKDOWN LINKS & IMAGES -->
+<!-- MARKDOWN LINKS & _img -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
 [contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
@@ -264,10 +264,10 @@ Project Link: [FELAB/SNPQuant](https://github.com/FELAB-KHU/SNPQuant)
 [license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/in-yeol-choi-98b21b26b/
-[product-screenshot]: images/trend.png
-[product-screenshot2]: images/logo_transparent_background.png
+[product-screenshot]: _img/trend.png
+[product-screenshot2]: _img/logo_transparent_background.png
 
-<!-- MARKDOWN LINKS & IMAGES -->
+<!-- MARKDOWN LINKS & _img -->
 [Python-shield]: https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white
 [Python-url]: https://python.org
 
