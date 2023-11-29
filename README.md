@@ -253,19 +253,18 @@ Project Link: [FELAB/SNPQuant](https://github.com/FELAB-KHU/SNPQuant)
 <!-- MARKDOWN LINKS & _img -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
-[contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
+[contributors-url]: https://github.com/FELAB-KHU/SNPQuant/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
-[forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
+[forks-url]: https://github.com/FELAB-KHU/SNPQuant/network/members
 [stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
-[stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
+[stars-url]: https://github.com/FELAB-KHU/SNPQuant/stargazers
 [issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
-[issues-url]: https://github.com/othneildrew/Best-README-Template/issues
+[issues-url]: https://github.com/FELAB-KHU/SNPQuant/issues
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
+[license-url]: https://github.com/FELAB-KHU/SNPQuant/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/in-yeol-choi-98b21b26b/
-[product-screenshot]: _img/trend.png
-[product-screenshot2]: _img/logo_transparent_background.png
+[product-screenshot]: _img/multimodal.png
 
 <!-- MARKDOWN LINKS & _img -->
 [Python-shield]: https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white
