@@ -1,0 +1,1 @@
+20d5p-lr1E-04-dp0.50-maTrue-vbTrue-weeklyTrained-noDelayedReturn
